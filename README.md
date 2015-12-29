@@ -2,10 +2,10 @@ Pretty-print text to a given number of characters per column. The printing of th
 
 (10 characters per line), whitespace displayed as _
 
-The_quick_
-brown_fox_
-jumped____
-over_the__
-lazy_dog.
+    The_quick_
+    brown_fox_
+    jumped____
+    over_the__
+    lazy_dog.
 
 This optimization is done using dynamic programming.
